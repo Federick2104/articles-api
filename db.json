@@ -1,0 +1,32 @@
+{
+    "articles": [
+      {
+        "id": 1,
+        "title": "Sebastian",
+        "author": "",
+        "description": "Eschweiler",
+        "content": "sebastian@codingthesmartway.com"
+      },
+      {
+        "id": 2,
+        "title": "Sebastian",
+        "author": "",
+        "description": "Eschweiler",
+        "content": "sebastian@codingthesmartway.com"
+      },
+      {
+        "id": 3,
+        "title": "Sebastian",
+        "author": "",
+        "description": "Eschweiler",
+        "content": "sebastian@codingthesmartway.com"
+      },
+      {
+        "id": 4,
+        "title": "Sebastian",
+        "author": "",
+        "description": "Eschweiler",
+        "content": ""
+      }
+    ]
+  }
