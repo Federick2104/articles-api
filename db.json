@@ -74,18 +74,6 @@
       },
       {
         "id": 7,
-        "title": "Introduction to Reinforcement Learning",
-        "title_it": "Introduzione all'Apprendimento per Rinforzo",
-        "author": "Andrew Smith",
-        "description": "An introduction to reinforcement learning, a subset of machine learning focused on learning through interaction with an environment.",
-        "description_it": "Un'introduzione all'apprendimento per rinforzo, un sottoinsieme del machine learning focalizzato sull'apprendimento attraverso l'interazione con un ambiente.",
-        "image": "https://miro.medium.com/v2/resize:fit:702/1*4u2GtNnMa9xso1WkLh7hVA.png",
-        "content": "This article explains the basics of reinforcement learning, including the concepts of agents, environments, states, actions, rewards, and policies. It also covers popular reinforcement learning algorithms such as Q-learning and deep Q-networks (DQN).",
-        "content_it": "Questo articolo spiega i fondamenti dell'apprendimento per rinforzo, compresi i concetti di agenti, ambienti, stati, azioni, ricompense e politiche. Copre anche algoritmi di apprendimento per rinforzo popolari come il Q-learning e le reti neurali profonde (DQN).",
-        "link": "https://it.mathworks.com/discovery/reinforcement-learning.html"
-      },
-      {
-        "id": 8,
         "title": "The Future of Artificial Intelligence",
         "title_it": "Il futuro dell'intelligenza artificiale",
         "author": "Mark Johnson",
