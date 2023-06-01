@@ -68,8 +68,6 @@
         "description": "An overview of natural language processing (NLP) and its applications in machine learning and AI.",
         "description_it": "Una panoramica sull'elaborazione del linguaggio naturale (NLP) e le sue applicazioni nel machine learning e nell'IA.",
         "image": "https://imgcdn.agendadigitale.eu/wp-content/uploads/2019/01/23185224/Business-Applications-for-Natural-Language-Processing.jpg",
-        "content": "The article explores the basic concepts and techniques used in NLP, including text preprocessing, sentiment analysis, named entity recognition, and language generation. It also discusses the challenges and future directions of NLP.",
-        "content_it": "L'articolo esplora i concetti e le tecniche di base utilizzate nell'NLP, tra cui la preelaborazione del testo, l'analisi dei sentimenti, il riconoscimento delle entità nominate e la generazione del linguaggio. Discute anche le sfide e le future direzioni dell'NLP.",
         "link": "https://blog.osservatori.net/it_it/natural-language-processing-nlp-come-funziona-lelaborazione-del-linguaggio-naturale"
       },
       {
