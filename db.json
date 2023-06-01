@@ -38,18 +38,6 @@
       },
       {
         "id": 4,
-        "title": "Tensorflow.js",
-        "title_it": "TensorFlow.js",
-        "author": "Michael Brown",
-        "description": "An overview of TensorFlow.js and its applications.",
-        "description_it": "Una panoramica su TensorFlow.js e le sue applicazioni.",
-        "image": "https://www.tensorflow.org/static/site-assets/images/project-logos/tensorflow-js-logo-social.png",
-        "content": "TensorFlow.js is a JavaScript library developed by Google that allows developers to train and deploy machine learning models directly in the browser or on Node.js. It provides a high-level API for building and training models using JavaScript and allows seamless integration with existing web technologies. TensorFlow.js supports both pre-trained models that can be used for tasks like image classification, object detection, and sentiment analysis, as well as the ability to train models from scratch using user-provided datasets. This makes it a versatile tool for implementing machine learning in JavaScript applications.",
-        "content_it": "TensorFlow.js è una libreria JavaScript sviluppata da Google che consente agli sviluppatori di addestrare e distribuire modelli di machine learning direttamente nel browser o su Node.js. Fornisce un'API di alto livello per la creazione e l'addestramento di modelli utilizzando JavaScript e consente un'integrazione senza soluzione di continuità con le tecnologie web esistenti. TensorFlow.js supporta sia modelli pre-addestrati che possono essere utilizzati per compiti come la classificazione delle immagini, il rilevamento degli oggetti e l'analisi del sentiment, sia la possibilità di addestrare modelli da zero utilizzando set di dati forniti dall'utente. Questo lo rende uno strumento versatile per l'implementazione del machine learning nelle applicazioni JavaScript.",
-        "link": "https://www.tensorflow.org/js"
-      },
-      {
-        "id": 5,
         "title": "Human Consciousness and AI",
         "title_it": "Coscienza Umana e Intelligenza Artificiale",
         "author": "Sarah Thompson",
@@ -61,7 +49,7 @@
         "link":"https://bigthink.com/thinking/is-human-consciousness-creating-reality/"
       },
       {
-        "id": 6,
+        "id": 5,
         "title": "Introduction to Natural Language Processing",
         "title_it": "Introduzione all'Elaborazione del Linguaggio Naturale",
         "author": "Jessica Davis",
@@ -71,7 +59,7 @@
         "link": "https://blog.osservatori.net/it_it/natural-language-processing-nlp-come-funziona-lelaborazione-del-linguaggio-naturale"
       },
       {
-        "id": 7,
+        "id": 6,
         "title": "The Future of Artificial Intelligence",
         "title_it": "Il futuro dell'intelligenza artificiale",
         "author": "Mark Johnson",
