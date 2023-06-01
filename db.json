@@ -56,6 +56,8 @@
         "description": "An overview of natural language processing (NLP) and its applications in machine learning and AI.",
         "description_it": "Una panoramica sull'elaborazione del linguaggio naturale (NLP) e le sue applicazioni nel machine learning e nell'IA.",
         "image": "https://imgcdn.agendadigitale.eu/wp-content/uploads/2019/01/23185224/Business-Applications-for-Natural-Language-Processing.jpg",
+        "content": "This article explains the basics of reinforcement learning, including the concepts of agents, environments, states, actions, rewards, and policies. It also covers popular reinforcement learning algorithms such as Q-learning and deep Q-networks (DQN).",
+        "content_it": "Questo articolo spiega i fondamenti dell'apprendimento per rinforzo, compresi i concetti di agenti, ambienti, stati, azioni, ricompense e politiche. Copre anche algoritmi di apprendimento per rinforzo popolari come il Q-learning e le reti neurali profonde (DQN).",  
         "link": "https://blog.osservatori.net/it_it/natural-language-processing-nlp-come-funziona-lelaborazione-del-linguaggio-naturale"
       }
     ]
