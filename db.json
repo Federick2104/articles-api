@@ -98,18 +98,6 @@
       },
       {
         "id": 9,
-        "title": "Computer Vision: Applications and Challenges",
-        "title_it": "Computer Vision: Applicazioni e Sfide",
-        "author": "Laura Wilson",
-        "description": "An overview of computer vision and its applications in various fields, along with the challenges involved.",
-        "description_it": "Una panoramica della computer vision e delle sue applicazioni in vari campi, insieme alle sfide coinvolte.",
-        "image": "https://src.n-ix.com/uploads/2022/02/07/2d7ce0da-6472-4e3c-827a-7783fdcd3876.png",
-        "content": "This article provides an introduction to computer vision, covering topics such as image classification, object detection, image segmentation, and image generation. It also discusses the challenges faced by computer vision systems, including robustness to variations in lighting, viewpoint, and occlusions.",
-        "content_it": "Questo articolo fornisce un'introduzione alla computer vision, coprendo argomenti come la classificazione delle immagini, il rilevamento degli oggetti, la segmentazione delle immagini e la generazione delle immagini. Discute anche le sfide affrontate dai sistemi di computer vision, tra cui la robustezza alle variazioni di illuminazione, punto di vista e occlusioni.",
-        "link": "https://research.aimultiple.com/computer-vision-challenges/"
-      },
-      {
-        "id": 10,
         "title": "Ethical Considerations in Artificial Intelligence",
         "title_it": "Considerazioni Etiche nell'Intelligenza Artificiale",
         "author": "Sophia Rodriguez",
